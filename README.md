@@ -1,5 +1,9 @@
 # SYSC4001 Assignment 3 - Part 2  
-### Students: 101279214 & 101287262
+## Student Info
+**Name:** < Kezi Afulukwe>  
+**Student Number:** <101279214>  
+**Name:** < Abubakr Mohammed>  
+**Student Number:** <101287262>  
 
 This repository contains:
 - `part2a.c` — Part 2(a) shared memory + processes (no semaphores)
